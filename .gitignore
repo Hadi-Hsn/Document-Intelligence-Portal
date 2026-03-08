@@ -13,6 +13,7 @@ dist/
 build/
 .eggs/
 *.whl
+*.mp4
 
 # Virtual environments
 venv/
